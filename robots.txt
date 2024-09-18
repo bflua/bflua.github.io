@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bflua.github.io/JrF/sitemap.JrF.gz
